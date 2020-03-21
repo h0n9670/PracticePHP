@@ -7,8 +7,8 @@ require_once('view/top.php');
                 <input type="text" name="title" placeholder="Title">
             </p>
             <p>
-                <textarea name="description" placeholder="Description">                    
-                </textarea>
+                <textarea name="description" 
+                placeholder="Description"></textarea>
             </p>
             <p>
                 <input type="submit">
