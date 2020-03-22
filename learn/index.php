@@ -11,11 +11,11 @@ require_once('view/top.php');
         <?php } ?>
         <h2>
             <?php
-            print_title();
+            print_title_description('title');
             ?>
         </h2>
         <?php
-        print_description();
+        print_title_description('description');
         ?>
 <?php
 require('view/bottom.php');

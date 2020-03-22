@@ -7,7 +7,7 @@ require_once('library/print.php');
         <meta charset="UTF-8">
         <title>
         <?php
-        print_title();
+        print_title_description('title');
         ?>
         </title>
     </head>
